@@ -1,4 +1,4 @@
-import java.sql.*;
+/*import java.sql.*;
 
 public class Main{
 // https://www.youtube.com/watch?v=CcQlZtYaxa4
@@ -19,9 +19,6 @@ public class Main{
 
             }
 
-
-
-
         }catch (ClassNotFoundException e){
             e.printStackTrace();
         } catch (SQLException throwables) {
@@ -32,3 +29,4 @@ public class Main{
 
     }
 }
+*/
